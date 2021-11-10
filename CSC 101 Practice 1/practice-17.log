@@ -1,0 +1,546 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  30 OCT 2021 18:38
+entering extended mode
+**./practice-17.tex
+(practice-17.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+("C:\Program Files\MiKTeX\tex/latex/caption\subcaption.sty"
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+("C:\Program Files\MiKTeX\tex/latex/caption\caption.sty"
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+("C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty"
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count185
+\c@continuedfloat=\count186
+)
+\c@subfigure=\count187
+\c@subtable=\count188
+)
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box47
+)
+(practice-17.aux)
+\openout1 = `practice-17.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count190
+\scratchdimen=\dimen148
+\scratchbox=\box48
+\nofMPsegments=\count191
+\nofMParguments=\count192
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count193
+\MPscratchDim=\dimen149
+\MPnumerator=\count194
+\makeMPintoPDFobject=\count195
+\everyMPtoPDFconversion=\toks17
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.8 	\begin{subfigure}[b](
+                          0.2\linewidth)
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   (
+l.8 	\begin{subfigure}[b](
+                          0.2\linewidth)
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   )
+l.8 	\begin{subfigure}[b](0.2\linewidth)
+                                        
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   )
+l.8 	\begin{subfigure}[b](0.2\linewidth)
+                                        
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+LaTeX Warning: File `coffee.jpg' not found on input line 9.
+
+
+! Package pdftex.def Error: File `coffee.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 ...cludegraphics[width=\linewidth]{coffee.jpg}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 8--10
+[]\OT1/cmr/m/n/10 0.2)
+ []
+
+
+Overfull \hbox (11.81937pt too wide) in paragraph at lines 10--10
+[]\OT1/cmr/m/n/9 (a)
+ []
+
+
+Overfull \hbox (17.21516pt too wide) in paragraph at lines 10--10
+|\OT1/cmr/m/n/9 Cof-
+ []
+
+
+Overfull \hbox (13.6249pt too wide) in paragraph at lines 10--10
+\OT1/cmr/m/n/9 fee.| 
+ []
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.11 	\end{subfigure}
+                     	
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   (
+l.11 	\end{subfigure}
+                     	
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.13 	\begin{subfigure}[b](
+                           0.2\linewidth)
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   (
+l.13 	\begin{subfigure}[b](
+                           0.2\linewidth)
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   )
+l.13 	\begin{subfigure}[b](0.2\linewidth)
+                                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   )
+l.13 	\begin{subfigure}[b](0.2\linewidth)
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+LaTeX Warning: File `coffee.jpg' not found on input line 14.
+
+
+! Package pdftex.def Error: File `coffee.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...ludegraphics[width=\linewidth]{coffee.jpg}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 13--15
+[]\OT1/cmr/m/n/10 0.2)
+ []
+
+
+Overfull \hbox (12.33325pt too wide) in paragraph at lines 15--15
+[]\OT1/cmr/m/n/9 (b)
+ []
+
+
+Overfull \hbox (20.83525pt too wide) in paragraph at lines 15--15
+|\OT1/cmr/m/n/9 More
+ []
+
+
+Overfull \hbox (14.64574pt too wide) in paragraph at lines 15--15
+\OT1/cmr/m/n/9 cof-
+ []
+
+
+Overfull \hbox (13.6249pt too wide) in paragraph at lines 15--15
+\OT1/cmr/m/n/9 fee.| 
+ []
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.16 	\end{subfigure}
+                     	
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   (
+l.16 	\end{subfigure}
+                     	
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.18 	\begin{subfigure}[b](
+                           0.2\linewidth)
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   (
+l.18 	\begin{subfigure}[b](
+                           0.2\linewidth)
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   )
+l.18 	\begin{subfigure}[b](0.2\linewidth)
+                                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   )
+l.18 	\begin{subfigure}[b](0.2\linewidth)
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+LaTeX Warning: File `coffee.jpg' not found on input line 19.
+
+
+! Package pdftex.def Error: File `coffee.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...ludegraphics[width=\linewidth]{coffee.jpg}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 18--20
+[]\OT1/cmr/m/n/10 0.2)
+ []
+
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 20--20
+[]\OT1/cmr/m/n/9 (c)
+ []
+
+
+Overfull \hbox (22.40541pt too wide) in paragraph at lines 20--20
+|\OT1/cmr/m/n/9 Tasty
+ []
+
+
+Overfull \hbox (14.64574pt too wide) in paragraph at lines 20--20
+\OT1/cmr/m/n/9 cof-
+ []
+
+
+Overfull \hbox (13.6249pt too wide) in paragraph at lines 20--20
+\OT1/cmr/m/n/9 fee.| 
+ []
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.21 	\end{subfigure}
+                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   (
+l.21 	\end{subfigure}
+                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.23 	\begin{subfigure}[b](
+                           0.5\linewidth)
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   (
+l.23 	\begin{subfigure}[b](
+                           0.5\linewidth)
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   )
+l.23 	\begin{subfigure}[b](0.5\linewidth)
+                                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   )
+l.23 	\begin{subfigure}[b](0.5\linewidth)
+                                         
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+LaTeX Warning: File `coffee.jpg' not found on input line 24.
+
+
+! Package pdftex.def Error: File `coffee.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...ludegraphics[width=\linewidth]{coffee.jpg}
+                                                  	
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 23--25
+[]\OT1/cmr/m/n/10 0.5)
+ []
+
+
+Overfull \hbox (12.33325pt too wide) in paragraph at lines 25--25
+[]\OT1/cmr/m/n/9 (d)
+ []
+
+
+Overfull \hbox (15.41656pt too wide) in paragraph at lines 25--25
+|\OT1/cmr/m/n/9 Too
+ []
+
+
+Overfull \hbox (21.58319pt too wide) in paragraph at lines 25--25
+\OT1/cmr/m/n/9 much
+ []
+
+
+Overfull \hbox (14.64574pt too wide) in paragraph at lines 25--25
+\OT1/cmr/m/n/9 cof-
+ []
+
+
+Overfull \hbox (13.6249pt too wide) in paragraph at lines 25--25
+\OT1/cmr/m/n/9 fee.| 
+ []
+
+! Missing number, treated as zero.
+<to be read again> 
+                   (
+l.26 	\end{subfigure}
+                     		
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   (
+l.26 	\end{subfigure}
+                     		
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[1
+
+{C:/Users/EBUBE OLELE/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(practice-17.aux) ) 
+Here is how much of TeX's memory you used:
+ 2503 strings out of 479697
+ 42812 string characters out of 2876988
+ 315452 words of memory out of 3000000
+ 19622 multiletter control sequences out of 15000+200000
+ 403897 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,6n,74p,287b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on practice-17.pdf (1 page, 39144 bytes).
+PDF statistics:
+ 18 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
