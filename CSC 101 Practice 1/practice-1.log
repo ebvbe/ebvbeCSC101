@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  2 NOV 2021 23:19
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.10.28)  28 OCT 2021 21:07
+>>>>>>> 162bcc908bccd18ed62ca733748a9de59a761c63
 entering extended mode
 **./practice-1.tex
 (practice-1.tex
@@ -49,7 +53,11 @@ LaTeX Font Info:    ... okay on input line 2.
 -1.aux) ) 
 Here is how much of TeX's memory you used:
  386 strings out of 479697
+<<<<<<< HEAD
  7024 string characters out of 2876988
+=======
+ 6980 string characters out of 2876988
+>>>>>>> 162bcc908bccd18ed62ca733748a9de59a761c63
  271430 words of memory out of 3000000
  17562 multiletter control sequences out of 15000+200000
  403430 words of font info for 27 fonts, out of 3000000 for 9000
